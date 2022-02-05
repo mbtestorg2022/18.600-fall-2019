@@ -116,7 +116,18 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 20% Ten problem sets{{< br >}}- 40% Two midterm exams{{< br >}}- 40% Final exam{{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 20% Ten problem sets
+- 40% Two midterm exams
+- 40% Final exam
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student Information
 -------------------

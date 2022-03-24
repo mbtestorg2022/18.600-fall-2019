@@ -34,7 +34,7 @@ READINGS
 Permutations and combinations
 {{< tdclose >}}
 {{< tdopen >}}
-Sections 1.1–1.3 (also [Pascal's triangle](https://en.wikipedia.org/wiki/Pascal's_triangle), see also correspondence with Fermat: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fermat and Pascal on Probability (PDF)](http://www.york.ac.uk/depts/maths/histstat/pascal.pdf))
+Sections 1.1–1.3 (also [Pascal's triangle](https://en.wikipedia.org/wiki/Pascal's_triangle), see also correspondence with Fermat: [Fermat and Pascal on Probability (PDF)](http://www.york.ac.uk/depts/maths/histstat/pascal.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}

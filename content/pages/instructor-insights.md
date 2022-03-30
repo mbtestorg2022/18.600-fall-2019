@@ -73,7 +73,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010/)
+[_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010)
 
 ### Requirements Satisfied
 
@@ -136,7 +136,7 @@ Student Information
 
 ### Breakdown by Year
 
-A roughly even mix of levels, with fewer first-year students in the fall semester because many entering students take _[18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010/)_ (the prerequisite for 18.600) in their first semester.
+A roughly even mix of levels, with fewer first-year students in the fall semester because many entering students take _[18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010)_ (the prerequisite for 18.600) in their first semester.
 
 ### Breakdown by Major
 

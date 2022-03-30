@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fbaeb22b-365c-6309-d67e-ad7940ae7df6
 resourcetype: Image
 title: lecture_room.jpg
 uid: 69310f69-f5b9-86cb-6aaa-caca6c6883e4

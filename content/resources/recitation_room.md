@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fbaeb22b-365c-6309-d67e-ad7940ae7df6
 resourcetype: Image
 title: recitation_room.jpg
 uid: a518203b-1849-9df1-88a2-561b49f713bb
